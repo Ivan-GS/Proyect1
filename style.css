@@ -155,12 +155,14 @@ body {
         position: relative;
         top: 300px;
         text-align: justify;
-        width: 150px;
+        width: 250px;
         margin: 30px 20px;
         color: white;
-        font-size: 10px;
     }
     .travel_today h2 {
+        font-size: 20px;
+    }
+    .travel_today p {
         font-size: 15px;
     }
     .line {
