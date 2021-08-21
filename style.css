@@ -153,9 +153,9 @@ body {
     /*aside*/
     .travel_today {
         position: relative;
-        top: 300px;
+        top: 250px;
         text-align: justify;
-        width: 250px;
+        width: 200px;
         margin: 30px 20px;
         color: white;
     }
