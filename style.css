@@ -122,18 +122,18 @@ body {
     .img_search {
         position: absolute;
         width: 30px;
-        right: 100px;
+        right: 50px;
         margin: 10px 20px;
     }
     .img_travel {
         position: absolute;
         width: 30px;
-        right: 50px;
+        right: 10px;
         margin: 10px 20px;
     }
     /*MAIN*/
     .title {
-        margin-top: 250px;
+        margin-top: 150px;
     }
     .title h1 {
         letter-spacing: 10px;
@@ -156,7 +156,7 @@ body {
         top: 100px;
         text-align: justify;
         width: 150px;
-        margin: 30px 50px;
+        margin: 30px 20px;
         color: white;
         font-size: 10px;
     }
