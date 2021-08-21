@@ -142,18 +142,18 @@ body {
     }
     .social_media {
         position: absolute;
-        right: 10%;
-        top: 550px;
+        right: 15%;
+        top: 450px;
         margin: 30px 0;
     }
     .social_media img {
         display: inline-block;
-        width: 20px;
+        width: 30px;
     }
     /*aside*/
     .travel_today {
         position: relative;
-        top: 400px;
+        top: 300px;
         text-align: justify;
         width: 150px;
         margin: 30px 20px;
